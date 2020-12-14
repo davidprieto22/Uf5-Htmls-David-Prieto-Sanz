@@ -1,0 +1,47 @@
+table,th,td {
+border-color: black;
+border-width: 2px;
+border-style: solid;
+border-collapse: collapse;
+}
+.limon{
+    width: 300px;
+    padding: 10px; 
+    box-sizing: border-box;
+    margin-right: 5px;
+    font-family: "Sofia", sans-serif;
+}
+.naranja{
+    width: 300px;
+    padding: 10px; 
+    box-sizing: border-box;
+    margin-right: 5px;
+    font-family: "PT Serif", serif;
+}
+.pera{
+    width: 300px;
+    padding: 10px; 
+    box-sizing: border-box;
+    margin-right: 5px;
+    font-family: 'Bebas Neue', cursive;
+}
+.platano{
+width: 300px;
+    padding: 10px; 
+    box-sizing: border-box;
+    margin-right: 5px;
+    font-family: 'Pacifico', cursive;
+}
+.id{
+    color: turquoise;
+    background-color: gold;
+}
+
+a:link{
+    color: turquoise;
+    background-color: gold;
+}
+h1:hover{
+    color: yellow;
+    background-color: blueviolet;
+}

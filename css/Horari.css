@@ -1,0 +1,22 @@
+body{
+      background-color: white;
+      
+}
+table,td,th
+{
+border-color: black;
+border-width: 2px;
+border-style: solid;
+border-collapse: collapse; /*para eliminar doble linea*/
+background-size: 20px
+
+}
+
+.limon
+{
+color: white;
+}
+.naranja
+{
+      text-align: center;
+}
