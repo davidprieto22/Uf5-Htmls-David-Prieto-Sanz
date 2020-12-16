@@ -1,0 +1,53 @@
+div{
+    margin: 2px
+}
+#container {
+    background-color: white;
+    width: 600px;
+    height: 600px;
+}
+.VerdeOscuro{
+background-color: green;
+width: 398px;
+height:  98px;
+float: left;
+}
+.VerdeMini
+{
+    background-color: greenyellow;
+    float: left;
+    width: 190px;
+    height: 198px;
+}
+.Negro{
+background-color: black;
+float: left;
+width: 198px;
+height: 198px;
+}
+.VerdeOscuroMini
+{
+background-color: green;
+float: right;
+width: 196px;
+height: 98px;
+}
+.Verde{
+background: greenyellow;
+float: right;
+width: 194px;
+height: 98px;
+}
+.VerdeLargo{
+    background-color: greenyellow;
+    width: 398px;
+    height: 98px;
+    float: left;
+}
+.NegroDerecha
+{
+    background-color: black;
+    float: right;
+    width: 190px;
+    height: 198px;
+}

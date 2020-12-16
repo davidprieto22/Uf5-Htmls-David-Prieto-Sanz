@@ -1,0 +1,60 @@
+div
+{
+    margin: 2px
+}
+#container
+{
+    background-color: white;
+    width: 600px;
+    height: 600px; 
+}
+.VerdeOscuro
+{
+    background-color: green; 
+    width: 66%;
+    height: 16%; 
+    float: left;
+}
+.VerdeMini
+{
+    background-color: greenyellow;
+    float: left;
+    width: 198px;
+    height: 32%;
+}
+.Negro
+{
+    background-color: black;
+    float: left;
+    width: 32%;
+    height: 32%;
+}
+.VerdeOscuroMini
+{
+    background-color: green;
+    float: right;
+    width: 196px;
+    height: 16%; 
+}
+.Verde
+{
+    background-color: greenyellow;
+    float: right;
+     
+    width: 194px;
+    height: 16%;
+}
+.VerdeLargo
+{
+    background-color: greenyellow; 
+    width: 66%;
+    height: 16%; 
+    float: left;
+}
+.NegroDerecha
+{
+    background-color: black;
+    float: right;
+    width: 196px;
+    height: 32%;
+}

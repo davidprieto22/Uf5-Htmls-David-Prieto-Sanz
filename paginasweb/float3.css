@@ -1,0 +1,120 @@
+div
+{
+    margin: 2px;
+}
+#container
+{
+    position: relative;
+    background-color: white;
+    width: 600px;
+    height: 600px;
+}
+.VerdeOscuro{
+position: absolute;    
+background-color: green;
+width: 394px;
+height: 94px; 
+}
+.VerdeMini
+{
+position: absolute;
+background-color: greenyellow;
+width: 194px;
+height: 94px;
+left: 400px;  
+}
+.Negro
+{
+position: absolute;
+background-color: black;
+width: 194px;
+height: 194px;
+top: 100px;
+}
+.VerdeOscuroMini
+{
+position: absolute;
+background-color: green;
+width: 194px;
+height: 94px;
+left: 400px;
+top: 100px;
+}
+
+.NegroDerecha
+{
+position: absolute;
+background-color: black;
+width: 194px;
+height: 194px;
+top: 300px;
+left: 400px;
+}
+.VerdeOscuroLargo
+{
+position: absolute;
+background-color: green;
+width: 194px;
+height: 294px;
+top: 100px;
+left: 200px;
+   
+}
+.VerdeMini2
+{
+position: absolute;
+background-color: greenyellow;
+width: 194px;
+height: 94px;
+left: 400px;
+top: 200px;
+       
+}
+.VerdeOscuroMini2
+{
+position: absolute;
+background-color: green;
+width: 193px;
+height: 94px;
+top: 300px;
+   
+}
+.Negro2
+{
+position: absolute;
+background-color: black;
+width: 194px;
+height: 194px;
+top: 400px;
+   
+}
+.VerdeMini3
+{
+position: absolute;
+background-color: greenyellow;
+width: 194px;
+height: 94px;
+left: 200px;
+top: 400px; 
+
+}
+.VerdeMini4
+{
+position: absolute;
+background-color: greenyellow;
+width: 194px;
+height: 94px;
+left: 200px;
+top: 500px;  
+
+}
+.VerdeOscuroMini3
+{
+position: absolute;
+background-color: green;
+width: 194px;
+height: 94px;
+top: 500px;
+left: 400px;
+   
+}
